@@ -48,7 +48,7 @@ for (let key in keys) {
   console.log(`Key is: ${key} and value is: ${obj[key]}`);
 }
 // use a template literal to print a sentence about your favorite movie and color
-console.log(`${obj.favorites.movie} amd my favorite color is ${obj.favorite.}`);
+console.log(`${obj.favorites.movie} and my favorite color is ${obj.favorites["color"]}`);
 // access the values "b", 4, and 6 from obj.list
 console.log(obj.list[1]);
 console.log(obj.list[4][1]);
