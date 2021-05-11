@@ -1,0 +1,20 @@
+*{
+    background-color: #f5b209;
+  }
+  
+.header{
+  margin-right: -550px;
+  font-display: blueviolet;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#paragraph{
+  font-size: larger;
+  display: block;
+
+}
+#image{
+  margin-left: -80px; 
+  height: 125px;
+  object-fit: contain;
+}
